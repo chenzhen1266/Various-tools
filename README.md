@@ -10,13 +10,16 @@ ediary-4.3.4-win64-setup.exe：Diary software
 PDF Editing：
       https://www.ilovepdf.com/
       https://www.ilovepdf.com/zh-cn
+
 PPT color adjustment：
       https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3
       https://www.peiseka.com/peisedaohang.html
+      
 Free PPT template download：https://www.51pptmoban.com/
 
 
 Free Word, Excel, and PPT：https://www.coolhub.top/archives/42
+
 Image to document：https://v4.camscanner.com/file/recent
 
 
